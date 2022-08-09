@@ -1,0 +1,8 @@
+{
+    "vakhyash-api:50051": {
+      "languages": [
+        "en"
+      ],
+      "maxConnectionCount": 10000
+    }
+}
