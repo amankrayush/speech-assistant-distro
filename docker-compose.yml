@@ -14,7 +14,7 @@ services:
     container_name: vakhyash-proxy
     image: gcr.io/ekstepspeechrecognition/speech_recognition_model_api_proxy:1.0.4
     ports:
-      - 8091:9009
+      - 9009:9009
     depends_on:
       - vakhyash-api
     volumes:
